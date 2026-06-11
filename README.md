@@ -62,4 +62,4 @@ jupyter notebook Adaboost_From_Scratch.ipynb
 ```
 
 ## 👤 Author
-Your Name — [GitHub](https://github.com/YOUR_USERNAME) | [Kaggle](https://www.kaggle.com/YOUR_USERNAME)
+MD. TAHMEDUL HASSAN — [GitHub](https://github.com/mdtahmedulhassan) | [Kaggle](https://www.kaggle.com/mdtahmedulhassan)
